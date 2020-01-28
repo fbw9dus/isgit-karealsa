@@ -6,6 +6,6 @@ const direc = process.argv[2]
 
 
 
-isgit()
+isgit(direc)
 
 
